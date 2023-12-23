@@ -1,0 +1,6 @@
+[cowsdb]
+name=CowsDB Repository
+baseurl=https://cowsdb.github.io/rpm
+enabled=1
+gpgcheck=1
+gpgkey=https://cowsdb.github.io/cowsdb.asc

@@ -1,0 +1,15 @@
+title: cowsdb
+email: info@metrico.in
+description: >- 
+  CowsDB Package Repository
+baseurl: ""
+url: "https://cowsdb.github.io"
+github_username: cowsdb
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - tools/
+  - doc/
