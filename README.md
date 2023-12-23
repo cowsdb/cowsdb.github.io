@@ -1,2 +1,2 @@
-# cowsdb.github.io
-CowsDB Repository and Docs
+# 🐄🐄🐄
+> CowsDB Repository and Documentation
