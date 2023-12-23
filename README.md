@@ -1,4 +1,4 @@
-# :cows2: [CowsDB package repo](https://cowsdb.github.io)
+# 🐄 [CowsDB Repo](https://cowsdb.github.io)
 
 [![Debian and RPM Repo](https://github.com/cowsdb/cowsdb.github.io/actions/workflows/repo.yml/badge.svg)](https://github.com/cowsdb/cowsdb.github.io/actions/workflows/repo.yml)
 
